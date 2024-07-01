@@ -1,0 +1,45 @@
+.navbar, .container-fluid, #nav2{
+    background-color: rgb(166, 45, 45);
+    
+}
+
+.navbar a {
+    color: white;
+}
+
+#nav1 a:hover{
+    color: rgb(99, 49, 49);;
+}
+.dropdown-menu {
+    background-color: rgb(166, 45, 45);
+    font-family: "Roboto", sans-serif;
+}
+
+.navbar-brand{
+    font-family: "Pacifico", cursive;
+}
+
+#navbarSupportedContent a {
+    font-family: "Roboto", sans-serif;
+}
+
+.section-title {
+    font-family: "Pacifico", cursive;
+}
+
+.container p {
+    font-family: "Roboto", sans-serif;
+}
+
+.cor-text {
+    color: rgb(166, 45, 45);
+}
+
+#container--h2{
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+.vazio{
+    height: 80px;
+}
